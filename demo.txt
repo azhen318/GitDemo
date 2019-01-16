@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 hello azhen¡£version 5
 
 ÕâÊÇmaster branch
+=======
+ï»¿hello azhenã€‚version 5
+è¿™æ˜¯dev-azhen  brach
+>>>>>>> dev-azhen
