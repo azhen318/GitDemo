@@ -1,8 +1,2 @@
 ﻿hello azhen。version 5
-这是dev-azhen  brach
-<<<<<<< HEAD
-
-这是master
-=======
-这是dev-azhen
->>>>>>> dev-azhen
+这是master  brach
