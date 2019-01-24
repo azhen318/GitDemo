@@ -22,6 +22,12 @@ git log <-3>  --查看提交log
 
 git reset --hard commitid -- 回退到指令版本，可以通过git log 查看commitid
 
+git remote add origin git@github.com:yourname/仓库名.git  --新增github仓库地址
+
+git push -u origin master     --本地代码提交至远程仓库
+
+git clone git@github.com:yourname/仓库名.git   --远程仓库代码下载本地
+
 
 
  
