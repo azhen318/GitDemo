@@ -28,6 +28,10 @@ git push -u origin master     --本地代码提交至远程仓库
 
 git clone git@github.com:yourname/仓库名.git   --远程仓库代码下载本地
 
+git fetch origin  更新远程仓库
+
+git diff master origin/master   比较本地和远程的差异
+
 
 
  
