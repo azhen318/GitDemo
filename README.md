@@ -24,6 +24,9 @@ git merge branchName   --合并分支
 
 git log <-3>  --查看提交log
 
+git log --oneline --graph  查看本地与远程的版本差异
+
+
 git reset --hard commitid -- 回退到指令版本，可以通过git log 查看commitid
 
 git remote add origin git@github.com:yourname/仓库名.git  --新增github仓库地址
@@ -42,6 +45,8 @@ git merge tmp
     从远程获取最新的版本到本地的test分支上
    之后再进行比较合并
 2. git pull：相当于是从远程获取最新版本并merge到本地
+
+git文章：https://www.git-tower.com/learn/git/ebook/cn/command-line/introduction#start
 
 
  
